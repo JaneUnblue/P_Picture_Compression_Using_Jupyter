@@ -1,1 +1,1 @@
-# P_Picture_Compression_Using_Jupyter
+How p pictures of different motions are compressed. 3 sequences
